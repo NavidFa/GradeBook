@@ -1,0 +1,12 @@
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Grade.Test.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Grade.Test.pdb
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\obj\Debug\Grade.Test.csprojResolveAssemblyReference.cache
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\obj\Debug\Grade.Test.dll
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\obj\Debug\Grade.Test.pdb
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Grades.exe
+c:\Users\Lenovo\documents\visual studio 2017\Projects\Grades\Grade.Test\bin\Debug\Grades.pdb
