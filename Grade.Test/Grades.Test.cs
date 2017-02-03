@@ -33,7 +33,7 @@ namespace Grade.Test
 
         private int IncrementNumber(int x)
         {
-            return x += 1;
+            return x += 1;  
         }
         [TestMethod]
         public void AddDaystoDate()
